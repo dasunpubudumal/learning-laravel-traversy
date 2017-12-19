@@ -13,6 +13,8 @@
             <ul class="nav navbar-nav">
                 <li class="active"><a href="/">Home</a></li>
                 <li><a href="/about">About</a></li>
+                <li><a href="/posts">Posts</a></li>
+                <li><a href="/posts/create">Create</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
